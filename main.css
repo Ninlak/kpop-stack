@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color:firebrick;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#swl {
+    color: deeppink;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color:blue;
+    text-align: center;
+}
+h5 {
+    color:crimson;
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
+h6 {
+    color:dark;
+    text-align:left;
+    font-family: fantasy;
+    font-size:larger;
+}
+p {
+    color: darkblue;
+    text-align: start;
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+.hee {
+    color: navy;
+    text-align: start;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
